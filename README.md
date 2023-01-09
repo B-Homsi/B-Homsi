@@ -13,6 +13,4 @@ Hello my name is **Bilal Homsi**. I am 26 years old and I just started coding at
 7. Next
 
 
-```
-![Visitor Count](https://profile-counter.glitch.me/{B-Homsi}/count.svg)
-```
+
